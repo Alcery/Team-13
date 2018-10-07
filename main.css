@@ -44,10 +44,51 @@ a:visited{
 }
 .header-content{
     margin-top:0px;
-    padding:40px;
-    background-image: linear-gradient(to top, #FFF3F7 0%, #ffff 100%);
+    padding-right:40px;
+    padding-left:40px;
+    padding-bottom:40px;
+    background-image:url("african-afro.jpg");
+
 }
 
 .circle-img{
     border-radius:43%;
+    opacity: .7;
+}
+ h1 {
+     padding-left:10px;
+     font-size: 1.5em;
+     font-family: 'Cinzel', serif;
+ }
+ section h1 {
+     font-size: 1.5em;
+     font-family: 'Cinzel', serif;
+     padding-left:3%;
+ }
+ section p{
+     padding-left: 7%;
+     font-size: 1em;
+     padding-right:13%;
+     font-family: 'Cinzel', serif;
+ }
+ section ul li {
+    padding-left: 7%;
+    font-size: 1em;
+    padding-right:13%;
+    list-style-position: inside;
+    font-family:  'Cinzel', serif;
+ }
+
+ footer {
+     background-color: rgba(207, 61, 61, .8);
+     text-align: center;
+     font-size:  'Cinzel', serif;
+ }
+
+ footer:before {
+    content: ' \2661';
+}
+
+footer:after {
+    content: ' \2661';
 }
