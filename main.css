@@ -1,7 +1,13 @@
 @charset "utf-8";
 
-
-ul li a {
-    background-color: red;
+img {
+    align-content: center;
 }
- 
+ul li a {
+    background-color:#eb6260;
+    color: white;
+    align-items: center;
+}
+ul li a#don {
+    float: right;
+}
