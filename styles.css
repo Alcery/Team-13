@@ -46,3 +46,11 @@ section h2 a:link,
 section h2 a:visited {
   text-decoration: none;
 }
+section h2 a:hover,
+section h2 a:active {
+  color: blue;
+} 
+h1#head {
+  text-align: center;
+  font-size: 3em;
+}

@@ -49,3 +49,33 @@ footer:after {
    content: ' \2661';
 }
 
+.center-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.header-content{
+    margin-top:0px;
+    padding-right:40px;
+    padding-left:40px;
+    padding-bottom:40px;
+    background-image:url("african-afro.jpg");
+
+}
+
+.circle-img{
+    border-radius:100%;
+    opacity: .7;
+}
+
+p {
+ padding: 10px;
+}
+body{
+    align-content: center;
+}
+section ul li  {
+    margin: 3%;
+     
+}

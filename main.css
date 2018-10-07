@@ -79,6 +79,10 @@ ul.nav  li:active{
     list-style-position: inside;
     font-family:  'Cinzel', serif;
  }
+ section p a:link,
+ section p a:visited {
+     text-decoration: none;
+ }
 
  footer {
      background-color:#91343c;
